@@ -7,7 +7,7 @@
 
   Calculater is a fully responsive static priject, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://itsaqibzafar.github.io/calculater-master/"><strong>➥ Live Demo</strong></a>
+  <a href="https://https://itsaqibzafar.github.io/Calculator-master/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
