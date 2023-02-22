@@ -15,7 +15,7 @@
 
 ### Demo Screeshots
 
-![Adex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Calculater Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
